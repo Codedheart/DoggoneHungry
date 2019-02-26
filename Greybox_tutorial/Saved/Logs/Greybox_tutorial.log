@@ -5998,3 +5998,767 @@ Script Stack (0 frames):
 [2019.02.26-09.31.56:522][ 69]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/BetaA21D390C4820A7E2ED339B87946293C8.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta.umap'
 [2019.02.26-09.31.56:615][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Beta_BuiltData" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta_BuiltData.uasset" SILENT=true
 [2019.02.26-09.31.57:663][ 69]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Beta_BuiltDataE8670D8C42ED782B4F86FEAF7E0412C4.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta_BuiltData.uasset'
+[2019.02.26-09.33.31:901][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2019.02.26-09.33.36:061][383]LogEditorViewport: Clicking on Actor (LMB): GuestAI_C (GuestAI5)
+[2019.02.26-09.37.27:215][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-09.37.34:597][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-09.37.35:683][569]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.35:683][569]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.26-09.37.35:686][569]LogPlayLevel: [PlayLevel] Compiling B_Grass before play...
+[2019.02.26-09.37.35:966][569]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2019.02.26-09.37.35:970][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-09.37.37:674][569]LogSlate: Window 'Message' being destroyed
+[2019.02.26-09.37.37:678][569]PIE: New page: SIE session: Beta (Feb 25, 2019, 11:37:37 PM)
+[2019.02.26-09.37.37:678][569]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Beta
+[2019.02.26-09.37.37:717][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038742s)
+[2019.02.26-09.37.37:718][569]LogAIModule: Creating AISystem for world Beta
+[2019.02.26-09.37.37:718][569]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2019.02.26-09.37.37:718][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Beta.Beta to /Game/UEDPIE_0_Beta.Beta (0.039523s)
+[2019.02.26-09.37.37:754][569]LogInit: XAudio2 using 'DELL S2715H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-09.37.37:760][569]LogInit: FAudioDevice initialized.
+[2019.02.26-09.37.37:760][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-09.37.37:790][569]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.26-09.37.37:795][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:795][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.26-09.37.37:795][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:795][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.02.26-09.37.37:795][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:795][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.02.26-09.37.37:795][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:795][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[4] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[5] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[6] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[7] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[8] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[9] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[10] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[11] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[12] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[13] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[14] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[15] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[16] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[17] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[18] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[19] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[20] invalid
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.37:797][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[21] invalid
+[2019.02.26-09.37.37:804][569]LogWorld: Bringing World /Game/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2019.02.26-04.37.37
+[2019.02.26-09.37.37:808][569]LogWorld: Bringing up level for play took: 0.017515
+[2019.02.26-09.37.37:822][569]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:823][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:823][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:823][569]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:823][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:823][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:823][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:823][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:823][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:823][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:824][569]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:825][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:825][569]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:825][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:825][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:825][569]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'CallFunc_GetMaterials_ReturnValue' of length 7 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:825][569]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'CallFunc_GetMaterials_ReturnValue' of length 15 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:825][569]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'CallFunc_GetMaterials_ReturnValue' of length 16 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:825][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:825][569]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:826][569]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'CallFunc_GetMaterials_ReturnValue' of length 7 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:826][569]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:826][569]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_GetMaterials_ReturnValue' of length 2 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:826][569]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_GetMaterials_ReturnValue' of length 2 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:826][569]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.37:834][569]LogBlueprintUserMessages: [AI_Guest_C_0] NO ACTORS FOUND
+[2019.02.26-09.37.37:835][569]LogBlueprintUserMessages: [AI_Guest_C_1] NO ACTORS FOUND
+[2019.02.26-09.37.37:835][569]LogBlueprintUserMessages: [AI_Guest_C_2] NO ACTORS FOUND
+[2019.02.26-09.37.37:837][569]PIE: Play in editor start time for /Game/UEDPIE_0_Beta 2.07
+[2019.02.26-09.37.37:904][569]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.48:089][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.48:090][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-09.37.48:133][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-09.37.48:133][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.48:162][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-09.37.48:192][725]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.02.26-09.37.48:685][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-09.37.48:769][787]LogTemp: Repeating last play command: Simulate
+[2019.02.26-09.37.48:781][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.48:781][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-09.37.48:781][787]PIE: New page: SIE session: Beta (Feb 25, 2019, 11:37:48 PM)
+[2019.02.26-09.37.48:781][787]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Beta
+[2019.02.26-09.37.48:811][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030158s)
+[2019.02.26-09.37.48:812][787]LogAIModule: Creating AISystem for world Beta
+[2019.02.26-09.37.48:812][787]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2019.02.26-09.37.48:812][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Beta.Beta to /Game/UEDPIE_0_Beta.Beta (0.030818s)
+[2019.02.26-09.37.48:848][787]LogInit: XAudio2 using 'DELL S2715H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-09.37.48:854][787]LogInit: FAudioDevice initialized.
+[2019.02.26-09.37.48:882][787]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.26-09.37.48:887][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:887][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.26-09.37.48:887][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:887][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.02.26-09.37.48:887][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:887][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.02.26-09.37.48:887][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:887][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[4] invalid
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[5] invalid
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[6] invalid
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:888][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[7] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[8] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[9] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[10] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[11] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[12] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[13] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[14] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[15] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[16] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[17] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[18] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[19] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[20] invalid
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.48:889][787]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[21] invalid
+[2019.02.26-09.37.48:895][787]LogWorld: Bringing World /Game/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2019.02.26-04.37.48
+[2019.02.26-09.37.48:897][787]LogWorld: Bringing up level for play took: 0.013712
+[2019.02.26-09.37.48:908][787]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:908][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:908][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:908][787]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:908][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'CallFunc_GetMaterials_ReturnValue' of length 7 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'CallFunc_GetMaterials_ReturnValue' of length 15 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'CallFunc_GetMaterials_ReturnValue' of length 16 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:909][787]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'CallFunc_GetMaterials_ReturnValue' of length 7 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:910][787]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:910][787]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_GetMaterials_ReturnValue' of length 2 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:910][787]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_GetMaterials_ReturnValue' of length 2 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:910][787]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.48:912][787]LogBlueprintUserMessages: [AI_Guest_C_0] NO ACTORS FOUND
+[2019.02.26-09.37.48:912][787]LogBlueprintUserMessages: [AI_Guest_C_1] NO ACTORS FOUND
+[2019.02.26-09.37.48:913][787]LogBlueprintUserMessages: [AI_Guest_C_2] NO ACTORS FOUND
+[2019.02.26-09.37.48:913][787]PIE: Play in editor start time for /Game/UEDPIE_0_Beta -0.855
+[2019.02.26-09.37.48:915][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.50:209][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.50:209][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-09.37.50:244][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-09.37.50:244][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.50:276][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-09.37.50:309][942]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.02.26-09.37.51:856][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.51:856][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.26-09.37.51:856][125]PIE: New page: PIE session: Beta (Feb 25, 2019, 11:37:51 PM)
+[2019.02.26-09.37.51:856][125]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Beta
+[2019.02.26-09.37.51:886][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030327s)
+[2019.02.26-09.37.51:887][125]LogAIModule: Creating AISystem for world Beta
+[2019.02.26-09.37.51:887][125]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2019.02.26-09.37.51:887][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Beta.Beta to /Game/UEDPIE_0_Beta.Beta (0.030962s)
+[2019.02.26-09.37.51:921][125]LogInit: XAudio2 using 'DELL S2715H-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-09.37.51:927][125]LogInit: FAudioDevice initialized.
+[2019.02.26-09.37.51:955][125]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.26-09.37.51:961][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:961][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.26-09.37.51:961][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:961][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.02.26-09.37.51:961][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:961][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.02.26-09.37.51:961][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:961][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[4] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[5] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[6] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[7] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[8] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[9] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[10] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[11] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[12] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[13] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[14] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[15] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[16] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[17] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[18] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[19] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[20] invalid
+[2019.02.26-09.37.51:962][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.02.26-09.37.51:963][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[21] invalid
+[2019.02.26-09.37.51:969][125]LogWorld: Bringing World /Game/UEDPIE_0_Beta.Beta up for play (max tick rate 0) at 2019.02.26-04.37.51
+[2019.02.26-09.37.51:970][125]LogWorld: Bringing up level for play took: 0.013746
+[2019.02.26-09.37.51:982][125]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:982][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:982][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:982][125]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:982][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:982][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'CallFunc_GetMaterials_ReturnValue' of length 7 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'CallFunc_GetMaterials_ReturnValue' of length 15 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'CallFunc_GetMaterials_ReturnValue' of length 16 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_GetMaterials_ReturnValue' of length 3 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CallFunc_GetMaterials_ReturnValue' of length 4 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'CallFunc_GetMaterials_ReturnValue' of length 7 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:983][125]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_GetMaterials_ReturnValue' of length 2 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:984][125]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_GetMaterials_ReturnValue' of length 2 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:984][125]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetMaterials_ReturnValue' of length 1 in '/Game/Blueprints/Camera_Fade/BP_FadeComponent.BP_FadeComponent_C:ExecuteUbergraph_BP_FadeComponent'!
+[2019.02.26-09.37.51:987][125]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Player+AI/Blueprints/_00._00_C:ExecuteUbergraph__00'!
+[2019.02.26-09.37.51:987][125]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	_00_C /Game/UEDPIE_0_Beta.Beta:PersistentLevel._00_C_0
+	Function /Game/Player+AI/Blueprints/_00._00_C:ExecuteUbergraph__00:1123
+[2019.02.26-09.37.51:987][125]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  _00 Function:  Execute Ubergraph  00 Graph:  EventGraph Node:  Set RespawnPoint
+[2019.02.26-09.37.51:989][125]PIE: Play in editor start time for /Game/UEDPIE_0_Beta 0.222
+[2019.02.26-09.37.51:990][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.53:990][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.53:991][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-09.37.54:032][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.26-09.37.54:032][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Beta.Beta:PersistentLevel' has LevelScriptBlueprint '/Game/Beta.Beta:PersistentLevel.Beta' with GeneratedClass '/Game/Beta.Beta_C' with ClassGeneratedBy '/Game/Beta.Beta:PersistentLevel.Beta'
+[2019.02.26-09.37.54:061][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-09.37.54:097][353]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.02.26-09.37.58:974][897]LogSlate: Window 'Message Log' being destroyed
+[2019.02.26-09.37.58:977][897]LogSlate: Window 'Message Log' being destroyed
+[2019.02.26-09.38.00:297][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Beta" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.26-09.38.03:662][ 54]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Beta195AEE1E4C3D2E92D0A1BE8318345CF4.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta.umap'
+[2019.02.26-09.38.03:735][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Beta_BuiltData" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta_BuiltData.uasset" SILENT=true
+[2019.02.26-09.38.04:928][ 54]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Beta_BuiltData94CF057A491B05629BF555BAF21AC2B3.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta_BuiltData.uasset'
+[2019.02.26-09.38.40:727][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-09.38.45:547][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-09.38.47:862][163]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.26-09.38.48:417][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-09.38.52:245][687]Cmd: DELETE
+[2019.02.26-09.38.52:245][687]Cmd: ACTOR DELETE
+[2019.02.26-09.38.52:262][687]LogEditorActor: Deleted Actor: PointLight
+[2019.02.26-09.38.52:294][687]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.02.26-09.38.52:918][762]Cmd: TRANSACTION UNDO
+[2019.02.26-09.38.52:918][762]LogEditorTransaction: Undo Delete Actors
+[2019.02.26-09.38.56:388][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-09.38.56:456][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Beta" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.26-09.38.59:752][143]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Beta1F4A1028477DF6C0A3238A92386EAF90.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta.umap'
+[2019.02.26-09.38.59:818][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Beta_BuiltData" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta_BuiltData.uasset" SILENT=true
+[2019.02.26-09.39.00:862][143]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Beta_BuiltDataAC8152EB4A185834DE45DB986C500D72.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Beta_BuiltData.uasset'
+[2019.02.26-09.39.05:227][510]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-09.39.05:260][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DropShadowMaterial" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Materials/DropShadowMaterial.uasset" SILENT=true
+[2019.02.26-09.39.05:290][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/DropShadowMaterial163B839F4C4C2D0B6FDF79840B195D70.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Materials/DropShadowMaterial.uasset'
+[2019.02.26-09.39.05:389][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/B_Grass84A6CB104F3FC999D6582D926F7E3958.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Materials/Textures/EnvironmentMaterials/Foliage/B_Grass.uasset'
+[2019.02.26-09.39.05:556][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/M_Grass7E619814454277EEA1E106A8CF653713.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Materials/Textures/EnvironmentMaterials/Foliage/M_Grass.uasset'
+[2019.02.26-09.39.05:655][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/M_Bush87D273654BE3C9127D338781FD0B9B22.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Materials/Textures/EnvironmentMaterials/Outdoor/M_Bush.uasset'
+[2019.02.26-09.39.05:702][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Stinky_Boot_Small_01_Mat070948D64D09A22A951FC4B917C92535.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Materials/Textures/NPCS/Shoes/Stinky_Boot_Small_01_Mat.uasset'
+[2019.02.26-09.39.05:776][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/DogUV_011FDF6D4F46770712FAF82680658B0E9D.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Materials/Textures/TextureMaps/NPCs/Cute/DogUV_01.uasset'
+[2019.02.26-09.39.05:867][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/DogUV_01CBAE80024C3D7E00EF654CAE10BB8F3F.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Materials/Textures/TextureMaps/NPCs/Dog/DogUV_01.uasset'
+[2019.02.26-09.39.05:886][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Environment/Foliage/Bush" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Foliage/Bush.uasset" SILENT=true
+[2019.02.26-09.39.05:984][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/BushDDB65B08484590D789F64DAB9B2CF805.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Foliage/Bush.uasset'
+[2019.02.26-09.39.06:077][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/M_TreeBaseC4EFC629451441A8509C78A220B3ACE4.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/M_TreeBase.uasset'
+[2019.02.26-09.39.06:127][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/M_TreeBase_MatAFAD707349441CFC295686B325338A73.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/M_TreeBase_Mat.uasset'
+[2019.02.26-09.39.06:194][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/M_TreePlant92AADA1F427FD2C84145DBB2579961FD.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/M_TreePlant.uasset'
+[2019.02.26-09.39.06:251][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/M_TreePlant2DE748B5E43468DB94FE99FB0550CBE83.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/M_TreePlant2.uasset'
+[2019.02.26-09.39.06:282][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/M_TreePlant2_MatA55715CD4314DEE7288110A004032F9E.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/M_TreePlant2_Mat.uasset'
+[2019.02.26-09.39.06:314][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/M_TreePlant_MatCBCADA004BA9B6FD1A62BA9E71517DF5.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/M_TreePlant_Mat.uasset'
+[2019.02.26-09.39.06:362][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/SM_TreePlant76CFBD1B4DA38055BEE34EB52578A3CE.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/SM_TreePlant.uasset'
+[2019.02.26-09.39.06:409][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/SM_TreePlant29E6FC3854CF2C5BCF383F7885B40A7ED.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/SM_TreePlant2.uasset'
+[2019.02.26-09.39.06:419][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Environment/Living/TreeTop" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/TreeTop.uasset" SILENT=true
+[2019.02.26-09.39.06:451][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/TreeTopEA2D15C54BBC8881DE8FAFA8F0B31358.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/TreeTop.uasset'
+[2019.02.26-09.39.06:482][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/TreeTop_Mat4A621E984021E1B5E3455793000164E0.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Living/TreeTop_Mat.uasset'
+[2019.02.26-09.39.06:492][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Environment/Outdoors/Bush" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Outdoors/Bush.uasset" SILENT=true
+[2019.02.26-09.39.06:527][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Bush9427BC3C4A4A8A74F5A115B58983329D.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Outdoors/Bush.uasset'
+[2019.02.26-09.39.06:559][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/lambert277FE25DD4F20A118E78309A53B59E15A.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Outdoors/lambert2.uasset'
+[2019.02.26-09.39.06:607][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/SM_TreeFA2F13394EAF7EE158D40299E8A54B85.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/Models/Environment/Outdoors/SM_Tree.uasset'
+[2019.02.26-09.39.06:620][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OWNERITEMS/Boot_Tall_01" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Boot_Tall_01.uasset" SILENT=true
+[2019.02.26-09.39.06:647][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Boot_Tall_01CE6BD2D94E18FCEBC0427C8EEA21D4E9.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Boot_Tall_01.uasset'
+[2019.02.26-09.39.06:661][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OWNERITEMS/Boot_Tall_01_Mat" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Boot_Tall_01_Mat.uasset" SILENT=true
+[2019.02.26-09.39.06:677][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Boot_Tall_01_Mat58A6203848667105A429A8B1608007C3.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Boot_Tall_01_Mat.uasset'
+[2019.02.26-09.39.06:716][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Cool_Female_LongSleeves_014BAFBFED4BFB1AE09956C29E61B2392A.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Cool_Female_LongSleeves_01.uasset'
+[2019.02.26-09.39.06:746][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Cool_Female_LongSleeves_01_MatA9CDECBC46A2E901F72665AD069169A9.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Cool_Female_LongSleeves_01_Mat.uasset'
+[2019.02.26-09.39.06:757][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OWNERITEMS/Cool_Female_Pants_02" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Cool_Female_Pants_02.uasset" SILENT=true
+[2019.02.26-09.39.06:793][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Cool_Female_Pants_0255A1109C492DDEF80F3986A463E62FBA.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Cool_Female_Pants_02.uasset'
+[2019.02.26-09.39.06:825][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Cool_Female_Pants_02_MatE30A35A34C38AC1135A71F9D9AE0A1A1.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Cool_Female_Pants_02_Mat.uasset'
+[2019.02.26-09.39.06:836][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OWNERITEMS/FemaleUV_05" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/FemaleUV_05.uasset" SILENT=true
+[2019.02.26-09.39.06:873][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/FemaleUV_059A1E145741F9B0E07EE7AFACCE19D240.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/FemaleUV_05.uasset'
+[2019.02.26-09.39.06:887][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OWNERITEMS/FemaleUV_05_Mat" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/FemaleUV_05_Mat.uasset" SILENT=true
+[2019.02.26-09.39.06:904][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/FemaleUV_05_Mat5B5A91E8442507D008EFA3BB43B886B1.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/FemaleUV_05_Mat.uasset'
+[2019.02.26-09.39.06:916][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OWNERITEMS/Hair_04_Bob_NPC" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Hair_04_Bob_NPC.uasset" SILENT=true
+[2019.02.26-09.39.06:943][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Hair_04_Bob_NPCF1FA45BB43171D05CC1E819D21B77DA1.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Hair_04_Bob_NPC.uasset'
+[2019.02.26-09.39.06:957][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OWNERITEMS/Hair_04_Bob_NPC_Mat" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Hair_04_Bob_NPC_Mat.uasset" SILENT=true
+[2019.02.26-09.39.06:972][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Hair_04_Bob_NPC_Mat7B4E043F48AE2AF00B4EE7A368CF2FB8.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/OWNERITEMS/Hair_04_Bob_NPC_Mat.uasset'
+[2019.02.26-09.39.06:977][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_Menu" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/Pause_Menu.uasset" SILENT=true
+[2019.02.26-09.39.07:438][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Pause_Menu0AC1E67343A507AE89D483902ECD6BCE.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/Pause_Menu.uasset'
+[2019.02.26-09.39.07:460][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Back_Clicked" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Back_Clicked.uasset" SILENT=true
+[2019.02.26-09.39.07:487][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Back_ClickedE4EB20C94B4E4E57FCFD52B68CB58D24.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Back_Clicked.uasset'
+[2019.02.26-09.39.07:507][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Back_Hovered" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Back_Hovered.uasset" SILENT=true
+[2019.02.26-09.39.07:533][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Back_HoveredF81BA3404FBAC97F9FAA818B661AE692.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Back_Hovered.uasset'
+[2019.02.26-09.39.07:553][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Back_Static" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Back_Static.uasset" SILENT=true
+[2019.02.26-09.39.07:580][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Back_Static9B0392324797162EEA367DA43AA43C0F.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Back_Static.uasset'
+[2019.02.26-09.39.07:599][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Button_3" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Button_3.uasset" SILENT=true
+[2019.02.26-09.39.07:627][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Button_3F0E7AFE041757BF2A09F8C859080F9B0.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Button_3.uasset'
+[2019.02.26-09.39.07:646][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Button_Hovered" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Button_Hovered.uasset" SILENT=true
+[2019.02.26-09.39.07:693][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Button_HoveredDBC5FF4740086F3C394F2EAC7B61DF98.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Button_Hovered.uasset'
+[2019.02.26-09.39.07:728][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Button_Static" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Button_Static.uasset" SILENT=true
+[2019.02.26-09.39.07:776][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Button_StaticED34C1D6418E5E1563D8F392FD6EB91B.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Button_Static.uasset'
+[2019.02.26-09.39.07:797][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Controls" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Controls.uasset" SILENT=true
+[2019.02.26-09.39.08:040][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Controls122DBC294C584DB4E2DDCA83C421CDA4.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Controls.uasset'
+[2019.02.26-09.39.08:049][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Quit_Game_Clicked" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Quit_Game_Clicked.uasset" SILENT=true
+[2019.02.26-09.39.08:060][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Quit_Game_ClickedB71CA8764092F2E6FCD3C49EB09EEFAA.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Quit_Game_Clicked.uasset'
+[2019.02.26-09.39.08:069][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Quit_Game_Hovered" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Quit_Game_Hovered.uasset" SILENT=true
+[2019.02.26-09.39.08:079][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Quit_Game_Hovered2A82C93544A134319F692CB6C50400F6.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Quit_Game_Hovered.uasset'
+[2019.02.26-09.39.08:088][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Assets/Quit_Game_Static" FILE="E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Quit_Game_Static.uasset" SILENT=true
+[2019.02.26-09.39.08:099][510]LogSavePackage: Moving 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Saved/Quit_Game_Static35A6609D4E7B940A21E8498EADC9FEF4.tmp' to 'E:/Senior 2nd QTR/ITGM 425/AAAAAAAAAAAAAAAAAAAA/Greybox_tutorial/Content/UI/UI_Assets/Quit_Game_Static.uasset'
+[2019.02.26-09.39.08:232][510]LogSlate: Window 'Greybox_tutorial - Unreal Editor' being destroyed
+[2019.02.26-09.39.09:121][511]Cmd: QUIT_EDITOR
+[2019.02.26-09.39.10:034][511]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.26-09.39.10:069][511]LogExit: Preparing to exit.
+[2019.02.26-09.39.10:777][511]LogExit: Editor shut down
+[2019.02.26-09.39.10:777][511]LogExit: Transaction tracking system shut down
+[2019.02.26-09.39.11:286][511]LogExit: Object subsystem successfully closed.
+[2019.02.26-09.39.11:313][511]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.26-09.39.11:327][511]LogD3D11RHI: Shutdown
+[2019.02.26-09.39.11:328][511]LogD3D11RHI: CleanupD3DDevice
+[2019.02.26-09.39.11:337][511]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.26-09.39.11:356][511]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (636)
+[2019.02.26-09.39.11:356][511]LogModuleManager: Shutting down and abandoning module SequencerWidgets (634)
+[2019.02.26-09.39.11:356][511]LogModuleManager: Shutting down and abandoning module BlueprintGraph (632)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (626)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module StatsViewer (624)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module MeshBuilder (622)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (620)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module SceneOutliner (618)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module AddContentDialog (616)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module WidgetCarousel (615)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module EditorWidgets (612)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module CollectionManager (610)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.02.26-09.39.11:357][511]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.02.26-09.39.11:358][511]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.02.26-09.39.12:409][511]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.02.26-09.39.12:409][511]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.02.26-09.39.12:409][511]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.02.26-09.39.12:409][511]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.02.26-09.39.12:409][511]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.02.26-09.39.12:409][511]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.02.26-09.39.12:409][511]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.02.26-09.39.12:409][511]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.02.26-09.39.12:410][511]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.02.26-09.39.12:464][511]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.02.26-09.39.12:464][511]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.02.26-09.39.12:464][511]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.02.26-09.39.12:464][511]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.02.26-09.39.12:464][511]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.02.26-09.39.12:464][511]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.02.26-09.39.12:465][511]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.02.26-09.39.12:465][511]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.02.26-09.39.12:465][511]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.02.26-09.39.12:465][511]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.02.26-09.39.12:488][511]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.02.26-09.39.12:488][511]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.02.26-09.39.12:488][511]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.02.26-09.39.12:488][511]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.02.26-09.39.12:488][511]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.02.26-09.39.12:488][511]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.02.26-09.39.12:488][511]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.02.26-09.39.12:488][511]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.02.26-09.39.12:489][511]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.02.26-09.39.12:490][511]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.02.26-09.39.12:490][511]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.02.26-09.39.12:490][511]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.02.26-09.39.12:490][511]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.02.26-09.39.12:500][511]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.26-09.39.12:720][511]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.26-09.39.12:721][511]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.26-09.39.12:721][511]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.02.26-09.39.12:721][511]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.02.26-09.39.12:721][511]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.02.26-09.39.12:734][511]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.26-09.39.12:735][511]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.02.26-09.39.12:736][511]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.02.26-09.39.12:737][511]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.02.26-09.39.12:737][511]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.02.26-09.39.12:737][511]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.02.26-09.39.12:737][511]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.02.26-09.39.12:737][511]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.02.26-09.39.12:737][511]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.26-09.39.12:737][511]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.26-09.39.12:838][511]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.26-09.39.12:939][511]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.26-09.39.12:939][511]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.26-09.39.12:939][511]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.26-09.39.12:939][511]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.26-09.39.12:939][511]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.26-09.39.12:939][511]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.26-09.39.12:939][511]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.26-09.39.12:941][511]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.26-09.39.12:941][511]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.26-09.39.12:942][511]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.26-09.39.12:942][511]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.26-09.39.12:943][511]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.26-09.39.12:945][511]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.26-09.39.12:945][511]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.26-09.39.12:945][511]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.26-09.39.12:945][511]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.26-09.39.12:945][511]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.26-09.39.12:946][511]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.26-09.39.12:946][511]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.26-09.39.12:958][511]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.26-09.39.12:966][511]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.26-09.39.12:967][511]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.26-09.39.12:967][511]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.26-09.39.12:967][511]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.26-09.39.12:967][511]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.26-09.39.12:967][511]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.26-09.39.12:967][511]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.26-09.39.12:967][511]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.26-09.39.12:967][511]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.26-09.39.12:972][511]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.26-09.39.12:972][511]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.26-09.39.12:972][511]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.26-09.39.12:973][511]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.26-09.39.12:974][511]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.26-09.39.12:974][511]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.26-09.39.13:008][511]LogDerivedDataCache: Shutdown
+[2019.02.26-09.39.13:008][511]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.26-09.39.13:009][511]LogXGEController: Cleaning working directory: C:/Users/Kris/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.26-09.39.13:009][511]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.26-09.39.13:009][511]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.26-09.39.13:009][511]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.26-09.39.13:009][511]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.26-09.39.13:009][511]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.26-09.39.13:009][511]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.26-09.39.13:009][511]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.26-09.39.13:009][511]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.26-09.39.13:010][511]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.26-09.39.13:010][511]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.26-09.39.13:010][511]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.26-09.39.13:010][511]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.26-09.39.13:010][511]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.26-09.39.13:010][511]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.26-09.39.13:010][511]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.26-09.39.13:010][511]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.26-09.39.13:010][511]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.26-09.39.13:012][511]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.26-09.39.13:012][511]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.26-09.39.13:012][511]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.26-09.39.13:013][511]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.26-09.39.13:013][511]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.26-09.39.13:015][511]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.26-09.39.13:015][511]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.26-09.39.13:016][511]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.26-09.39.13:016][511]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.26-09.39.13:032][511]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.26-09.39.13:032][511]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.26-09.39.13:032][511]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.26-09.39.13:033][511]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.26-09.39.13:033][511]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.26-09.39.13:033][511]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.26-09.39.13:033][511]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.26-09.39.13:033][511]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.26-09.39.13:033][511]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.26-09.39.13:033][511]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.26-09.39.13:033][511]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.26-09.39.13:033][511]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.26-09.39.13:034][511]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.26-09.39.13:034][511]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.26-09.39.13:034][511]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.26-09.39.13:034][511]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.26-09.39.13:034][511]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.26-09.39.13:034][511]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.26-09.39.13:034][511]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.26-09.39.13:036][511]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.26-09.39.13:036][511]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.26-09.39.13:054][511]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.26-09.39.13:054][511]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.26-09.39.13:054][511]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCD618750-4E9A-C367-8831-BFA5D45452A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=9bc30e214f01eb9d3b0f76aef4581262%7C53eab107cf95470c87df0a5502a61825%7C21b425bd-1ce2-4121-b6db-b6bdb4b7fa9a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.26-09.39.13:087][511]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.26-09.39.13:090][511]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.26-09.39.13:091][511]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.26-09.39.13:091][511]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.26-09.39.13:091][511]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.26-09.39.13:091][511]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.26-09.39.13:091][511]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.26-09.39.13:091][511]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.26-09.39.13:091][511]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.26-09.39.13:092][511]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.26-09.39.13:092][511]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.26-09.39.13:095][511]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.26-09.39.13:095][511]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.26-09.39.13:095][511]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.26-09.39.13:095][511]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.26-09.39.13:095][511]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.26-09.39.13:096][511]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.26-09.39.13:096][511]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.26-09.39.13:097][511]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.26-09.39.13:098][511]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.26-09.39.13:124][511]LogExit: Exiting.
+[2019.02.26-09.39.13:166][511]Log file closed, 02/26/19 04:39:13
