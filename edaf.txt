@@ -1,0 +1,5 @@
+fix pretzel bowl
+get dog model in pause menu
+win conditions
+timer
+fade component on ceiling
