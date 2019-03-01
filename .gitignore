@@ -75,3 +75,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Greybox_tutorial/Saved/Config/CrashReportClient/
+Greybox_tutorial/Saved/Logs/
