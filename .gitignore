@@ -78,3 +78,9 @@ DerivedDataCache/*
 Greybox_tutorial/Saved/Config/CrashReportClient/
 Greybox_tutorial/Saved/Logs/
 Greybox_tutorial/Autosaves/
+Greybox_tutorial/Saved/Temp/
+Greybox_tutorial/Saved/StagedBuilds/
+Greybox_tutorial/Saved/Crashes/
+Greybox_tutorial/Saved/Cooked/
+Greybox_tutorial/Saved/Backup/
+Greybox_tutorial/Saved/Autosaves/
