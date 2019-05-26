@@ -1,2 +1,2 @@
-H:\04_Spring\Doggone Hungry\Git\DoggoneHungry\DoggoneHungry\Intermediate\Source\DoggoneHungry.Build.cs
-H:\04_Spring\Doggone Hungry\Git\DoggoneHungry\DoggoneHungry\Intermediate\Source\DoggoneHungry.Target.cs
+F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Source\DoggoneHungry.Build.cs
+F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Source\DoggoneHungry.Target.cs
