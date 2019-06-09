@@ -52,8 +52,8 @@
 /I Runtime\Core\Public\Traits
 /I Runtime\Core\Public\UObject
 /I Runtime\Core\Public\Windows
-/I "F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate"
-/I "F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Source"
+/I "E:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate"
+/I "E:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Source"
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
@@ -61,12 +61,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/FI"F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\DoggoneHungry\Development\Core\SharedPCH.Core.h"
-/Yu"F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\DoggoneHungry\Development\Core\SharedPCH.Core.h"
-/Fp"F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\DoggoneHungry\Development\Core\SharedPCH.Core.h.pch"
-"F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Source\DoggoneHungry.cpp"
-/FI"F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\UE4\Development\DoggoneHungry\Definitions.DoggoneHungry.h"
-/Fo"F:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\UE4\Development\DoggoneHungry\DoggoneHungry.cpp.obj"
+/FI"E:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\DoggoneHungry\Development\Core\SharedPCH.Core.h"
+/Yu"E:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\DoggoneHungry\Development\Core\SharedPCH.Core.h"
+/Fp"E:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\DoggoneHungry\Development\Core\SharedPCH.Core.h.pch"
+"E:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Source\DoggoneHungry.cpp"
+/FI"E:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\UE4\Development\DoggoneHungry\Definitions.DoggoneHungry.h"
+/Fo"E:\2019 SCAD\Studio II\NewRepo\DoggoneHungry\DoggoneHungry\Intermediate\Build\Win64\UE4\Development\DoggoneHungry\DoggoneHungry.cpp.obj"
 /TP
 /GR-
 /W4
